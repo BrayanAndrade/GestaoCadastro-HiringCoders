@@ -1,0 +1,17 @@
+.title{
+  display: flex;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+}
+.title h2 {
+  margin-bottom: 0px;
+  padding-right: 1rem;
+}
+.product-container {
+  color: #16233a;
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+}
+

@@ -1,0 +1,44 @@
+main {
+  display: flex;
+  color: #16233a;
+
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.img{
+  width: 27%;
+  height: 50vh;
+  background-image: url("https://www.nordicaseguros.com.br/wp-content/uploads/2021/01/gestao-720-data-nordica-1024x878.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+section {
+  margin-bottom: 2rem;
+  width: 50rem;
+}
+
+main h2 {
+  margin-top: 1.675rem;
+  margin-bottom: 0.175rem;
+}
+main p {
+  margin-bottom: 0.875rem;
+}
+
+.link {
+  color: #4502ff;
+  text-transform: none;
+  font-size: inherit;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+p {
+  color: #273957;
+  line-height: 150%;
+}
+
+
